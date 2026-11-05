@@ -26,7 +26,6 @@ Hackathons are where I explore new ideas. Testing, documentation and iteration a
 | **[MPLADS Sentinel](https://github.com/Vinay-711/mplads-sentinel-sih-2026)** | Public-project data pipelines and explainable governance risk indicators. | Python · FastAPI · PostgreSQL. Research prototype that includes demonstration data. |
 | **[AASHA](https://github.com/Vinay-711/AASHA)** | Medication-reminder, pharmacy-availability, and family/guardian workflow experiments. | Flutter · FastAPI · SQLAlchemy. Healthcare and safety research prototype. [Browser demo ↗](https://vinay-711.github.io/AASHA/) |
 | **[AgentPay](https://github.com/Vinay-711/AgentPay)** | Agent-to-agent services and payments with programmable wallet limits and policy checks. | Solidity · React · FastAPI · Supabase. Monad testnet prototype. |
-
 | **[SocietyBuy](https://github.com/Vinay-711/societybuy)** *(private repository)* | Society grocery ordering, supply-chain operations, and transactional order workflows. | Next.js · TypeScript · PostgreSQL. Local demonstration with sandbox integrations and automated checks. |
 
 These projects are at different stages of development. Healthcare capabilities remain unvalidated, payment experiments use test environments, and repository READMEs document the current limitations.
