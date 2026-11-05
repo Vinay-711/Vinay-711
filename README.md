@@ -23,12 +23,19 @@ Hackathons are where I explore new ideas. Testing, documentation and iteration a
 
 | Project | What I'm building | Technology & scope |
 | --- | --- | --- |
-| **[SocietyBuy](https://github.com/Vinay-711/societybuy)** | Society grocery ordering, supply-chain operations, and transactional order workflows. | Next.js · TypeScript · PostgreSQL. Local demonstration with sandbox integrations and automated checks. |
 | **[MPLADS Sentinel](https://github.com/Vinay-711/mplads-sentinel-sih-2026)** | Public-project data pipelines and explainable governance risk indicators. | Python · FastAPI · PostgreSQL. Research prototype that includes demonstration data. |
 | **[AASHA](https://github.com/Vinay-711/AASHA)** | Medication-reminder, pharmacy-availability, and family/guardian workflow experiments. | Flutter · FastAPI · SQLAlchemy. Healthcare and safety research prototype. [Browser demo ↗](https://vinay-711.github.io/AASHA/) |
 | **[AgentPay](https://github.com/Vinay-711/AgentPay)** | Agent-to-agent services and payments with programmable wallet limits and policy checks. | Solidity · React · FastAPI · Supabase. Monad testnet prototype. |
 
+| **[SocietyBuy](https://github.com/Vinay-711/societybuy)** *(private repository)* | Society grocery ordering, supply-chain operations, and transactional order workflows. | Next.js · TypeScript · PostgreSQL. Local demonstration with sandbox integrations and automated checks. |
+
 These projects are at different stages of development. Healthcare capabilities remain unvalidated, payment experiments use test environments, and repository READMEs document the current limitations.
+
+## Explore the engineering
+
+- **[AgentPay policy safety tests](https://github.com/Vinay-711/AgentPay/blob/main/backend/tests/test_policy_safety.py):** isolated checks for payment limits, recipient trust and invalid policy data, using a mock chain client.
+- **[Codeforces regression checks](https://github.com/Vinay-711/codeforces-daily#continuous-regression-checks):** a single command runs the local solution test harnesses; GitHub Actions repeats these checks on pushes and pull requests.
+- **[Coding practice records](#coding-practice):** explanations and verification status distinguish accepted submissions from prepared solutions.
 
 ## Tools I work with
 
@@ -48,7 +55,7 @@ I keep solution code, original explanations, edge-case tests, and submission res
 | Platform | My profile | Practice repository |
 | --- | --- | --- |
 | **Codeforces** | [vinay711](https://codeforces.com/profile/vinay711) | [codeforces-daily](https://github.com/Vinay-711/codeforces-daily) |
-| **LeetCode** | [\_\_vinxy\_\_](https://leetcode.com/u/__vinxy_/) | [leetcode-daily](https://github.com/Vinay-711/leetcode-daily) · [Java solutions](https://github.com/Vinay-711/Leetcode) |
+| **LeetCode** | [\_\_vinxy\_](https://leetcode.com/u/__vinxy_/) | [leetcode-daily](https://github.com/Vinay-711/leetcode-daily) · [Java solutions](https://github.com/Vinay-711/Leetcode) |
 | **CodeChef** | [flair_ref_46](https://www.codechef.com/users/flair_ref_46) | [codechef-daily](https://github.com/Vinay-711/codechef-daily) |
 | **HackerRank** | [lokeshvinay1973](https://www.hackerrank.com/profile/lokeshvinay1973) | [hackerrank-daily](https://github.com/Vinay-711/hackerrank-daily) |
 | **HackerEarth** | [lokeshvinay1973](https://www.hackerearth.com/@lokeshvinay1973) | [hackerearth-daily](https://github.com/Vinay-711/hackerearth-daily) |
