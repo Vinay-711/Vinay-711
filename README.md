@@ -16,11 +16,11 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center"><a href="https://vinay-711.github.io/AASHA/"><b>Try AASHA</b></a> · Explore a medication reminder and pharmacy demo.<br/><a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><b>MPLADS Sentinel</b></a> · Inspect gaps between spending and reported progress.<br/><a href="https://github.com/Vinay-711/AgentPay"><b>AgentPay</b></a> · See how a testnet wallet checks an AI agent’s payment requests.</p>
-
-<h2 align="center">📈 Repository Languages</h2>
-
-<p align="center"><img src="./assets/languages.svg" alt="Python 7, HTML 5, Java 3, JavaScript 2, TypeScript 1. Public non-fork repository snapshot, 7 November 2026." width="650" /></p>
+<p align="center">
+<a href="https://vinay-711.github.io/AASHA/"><img src="./assets/showcase-aasha.svg" width="650" alt="AASHA — Try the health assistant demo" /></a><br/>
+<a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><img src="./assets/showcase-sentinel.svg" width="650" alt="MPLADS Sentinel — Inspect public works risk indicators" /></a><br/>
+<a href="https://github.com/Vinay-711/AgentPay"><img src="./assets/showcase-agentpay.svg" width="650" alt="AgentPay — Explore agent wallet policies" /></a>
+</p>
 
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
