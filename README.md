@@ -1,36 +1,21 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="L Vinay — Engineering ideas into useful software. AI, automation and full-stack development. REVA University, Bengaluru." width="100%" />
-</p>
+![L Vinay · AI/ML Engineer in Bengaluru](./assets/header.svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/l-vinay-55631136b/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:lokeshvinay1973@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Vinay-711?tab=repositories">All repositories</a>
-</p>
+I build AI applications at REVA University in Bengaluru. I’m interested in the moment a model’s output becomes someone’s decision. My projects explore what a reviewer can check, what a user can try, and what an agent is allowed to do.
 
-# L Vinay · AI/ML Engineer
+[LinkedIn](https://www.linkedin.com/in/l-vinay-55631136b/) · [Email](mailto:lokeshvinay1973@gmail.com) · [All repositories](https://github.com/Vinay-711?tab=repositories)
 
-I build AI applications in Bengaluru. Two questions show up across my work at REVA University: how can someone inspect a model’s output, and what should software check before it acts on that output?
+## Try AASHA
 
-## Start with these three projects
+How would you help a family member keep track of medication reminders and find a pharmacy? AASHA is a Flutter and FastAPI prototype exploring that workflow. The browser demo uses sample pharmacy reports. The backend has a separate regression suite for the database-backed service.
 
-### MPLADS Sentinel · Explainable risk indicators
+**[Open the browser demo →](https://vinay-711.github.io/AASHA/)** · [Read the source](https://github.com/Vinay-711/AASHA) · [Run the pharmacy tests](https://github.com/Vinay-711/AASHA#run-the-pharmacy-regression-suite)
 
-A public works project can report spending and physical progress at different rates. Sentinel calculates that gap alongside delays and cost indicators so a reviewer can decide which records deserve a closer look. The feature tests run on a laptop without a database and include demonstration data.
+## Inside two engineering decisions
 
-[Explore Sentinel](https://github.com/Vinay-711/mplads-sentinel-sih-2026) · [Reproduce the feature checks](https://github.com/Vinay-711/mplads-sentinel-sih-2026#reproduce-the-feature-checks)
-
-### AASHA · A health and safety prototype
-
-AASHA explores how people could track medication reminders and share pharmacy availability with a family member. Try the browser walkthrough for the interaction design, then open the pharmacy tests to see what the database-backed service actually verifies. The demo uses sample records.
-
-[Try the browser demo](https://vinay-711.github.io/AASHA/) · [Explore the Flutter and FastAPI source](https://github.com/Vinay-711/AASHA) · [Run the pharmacy tests](https://github.com/Vinay-711/AASHA#run-the-pharmacy-regression-suite)
-
-### AgentPay · Spending limits for AI agents
-
-What happens when an agent asks to pay an unfamiliar recipient? In this Monad testnet prototype, a policy engine checks the recipient and spending limits before a payment can reach the wallet. The tests exercise those decisions with a mock chain client.
-
-[Explore AgentPay](https://github.com/Vinay-711/AgentPay) · [Read the payment policy tests](https://github.com/Vinay-711/AgentPay/blob/main/backend/tests/test_policy_safety.py)
+| Project | Design decision | Explore it |
+| --- | --- | --- |
+| **MPLADS Sentinel** · Python, PostgreSQL | Spending and reported progress can move at different rates. Sentinel calculates the gap so a reviewer can decide which public works records deserve a closer look. | [Reproduce the calculations on sample data](https://github.com/Vinay-711/mplads-sentinel-sih-2026#reproduce-the-feature-checks) |
+| **AgentPay** · Solidity, FastAPI | An agent can request a payment on Monad testnet. A separate policy engine checks the recipient and spending limit before that request reaches the wallet. | [Inspect the policy tests](https://github.com/Vinay-711/AgentPay/blob/main/backend/tests/test_policy_safety.py) |
 
 ## Hackathon highlights
 
