@@ -1,21 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">L Vinay — Engineering ideas into useful software</title>
-  <desc id="desc">Computer Science student at REVA University in Bengaluru. AI, automation and full-stack development.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1424"/><stop offset="1" stop-color="#102d36"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#80b9be" stroke-opacity=".08"/></pattern>
-  </defs>
-  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
-  <path d="M920 0v80h90v80h90v180" fill="none" stroke="#48d8c5" stroke-opacity=".18" stroke-width="2"/>
-  <path d="M1000 0v50h90v70h110" fill="none" stroke="#48d8c5" stroke-opacity=".18" stroke-width="2"/>
-  <circle cx="1010" cy="160" r="6" fill="#63e6cf"/>
-  <circle cx="1100" cy="250" r="6" fill="#63e6cf"/>
-  <rect x="56" y="53" width="6" height="24" rx="3" fill="#63e6cf"/>
-  <text x="78" y="71" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#8ce6d7">BUILD · TEST · IMPROVE</text>
-  <text x="56" y="153" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" fill="#f4f8fc">L Vinay</text>
-  <text x="58" y="204" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#d3e1ec">Engineering ideas into useful software.</text>
-  <text x="58" y="251" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#9cb4c5">AI &amp; automation  /  Full-stack development  /  Hackathon prototypes</text>
-  <text x="58" y="296" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1" fill="#83c9c5">REVA UNIVERSITY · BENGALURU, INDIA</text>
-  <text x="1025" y="287" font-family="monospace" font-size="60" fill="#63e6cf" opacity=".5">&lt;/&gt;</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="250" viewBox="0 0 1080 250" role="img" aria-labelledby="title"><title id="title">L Vinay · AI/ML Engineer · Bengaluru</title>
+<rect width="1080" height="250" fill="#182d32"/>
+<g fill="none" stroke="#9fe1bd" stroke-width="2" opacity=".8"><path d="M626 -10 C 525 95, 970 80, 685 265"/><path d="M638 -10 C 540 95, 982 80, 699 265"/><path d="M650 -10 C 555 95, 994 80, 713 265"/><path d="M662 -10 C 570 95, 1006 80, 727 265"/><path d="M674 -10 C 585 95, 1018 80, 741 265"/><path d="M686 -10 C 600 95, 1030 80, 755 265"/><path d="M698 -10 C 615 95, 1042 80, 769 265"/><path d="M710 -10 C 630 95, 1054 80, 783 265"/><path d="M722 -10 C 645 95, 1066 80, 797 265"/><path d="M734 -10 C 660 95, 1078 80, 811 265"/><path d="M746 -10 C 675 95, 1090 80, 825 265"/><path d="M758 -10 C 690 95, 1102 80, 839 265"/><path d="M770 -10 C 705 95, 1114 80, 853 265"/><path d="M782 -10 C 720 95, 1126 80, 867 265"/><path d="M794 -10 C 735 95, 1138 80, 881 265"/><path d="M806 -10 C 750 95, 1150 80, 895 265"/><path d="M818 -10 C 765 95, 1162 80, 909 265"/></g>
+<g font-family="system-ui,sans-serif"><text x="48" y="65" font-size="24" fill="#a8ebc9">Bengaluru, India</text><text x="44" y="152" font-size="86" font-weight="700" fill="#fff7e6">L Vinay</text><text x="48" y="208" font-size="36" fill="#fff7e6">AI/ML Engineer</text></g></svg>
