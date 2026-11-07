@@ -1,6 +1,6 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=29&amp;pause=1300&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I%27m+Vinay!;AI%2FML+Engineer+from+Bengaluru" alt="Hi, I’m Vinay! AI/ML Engineer from Bengaluru" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=29&amp;pause=1300&amp;color=FFA31A&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I%27m+Vinay!;AI%2FML+Engineer+from+Bengaluru" alt="Hi, I’m Vinay! AI/ML Engineer from Bengaluru" /></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;style=flat-square&amp;color=1685ac" alt="Profile views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;style=flat-square&amp;color=B85F00" alt="Profile views" /></p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -12,23 +12,19 @@
 
 <h2 align="center">🛠️ Skills &amp; Technologies</h2>
 
-<table align="center"><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" /><br/><sub><b>Python</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" /><br/><sub><b>Java</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" /><br/><sub><b>TypeScript</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" /><br/><sub><b>React</b></sub></td></tr><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" /><br/><sub><b>FastAPI</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" /><br/><sub><b>PostgreSQL</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" /><br/><sub><b>Flutter</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" /><br/><sub><b>Git</b></sub></td></tr></table>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-<a href="https://vinay-711.github.io/AASHA/"><img src="./assets/showcase-aasha.svg" width="650" alt="AASHA — Try the health assistant demo" /></a><br/>
-<a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><img src="./assets/showcase-sentinel.svg" width="650" alt="MPLADS Sentinel — Inspect public works risk indicators" /></a><br/>
-<a href="https://github.com/Vinay-711/AgentPay"><img src="./assets/showcase-agentpay.svg" width="650" alt="AgentPay — Explore agent wallet policies" /></a>
-</p>
+<table align="center"><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" /><br/><sub><b>Python</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" /><br/><sub><b>Java</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" /><br/><sub><b>TypeScript</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" /><br/><sub><b>React</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" /><br/><sub><b>FastAPI</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" /><br/><sub><b>PostgreSQL</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" /><br/><sub><b>Flutter</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" /><br/><sub><b>Git</b></sub></td></tr></table>
 
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
-<p align="center"><a href="https://github.com/Vinay-711"><img src="https://streak-stats.demolab.com/?user=Vinay-711&amp;theme=tokyonight&amp;hide_border=true" alt="Vinay’s GitHub contribution streak" width="550" /></a></p>
+<p align="center"><a href="https://github.com/Vinay-711"><img src="https://streak-stats.demolab.com/?user=Vinay-711&amp;theme=dark&amp;background=151515&amp;ring=FF9900&amp;fire=FF9900&amp;currStreakLabel=FF9900&amp;hide_border=true" alt="Vinay’s GitHub contribution streak" width="620" /></a></p>
 
 <h2 align="center">📊 GitHub Contribution Graph</h2>
 
-<p align="center"><a href="https://github.com/Vinay-711"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-711&amp;theme=tokyo-night&amp;hide_border=true" alt="Vinay’s recent GitHub contribution graph" width="850" /></a></p>
+<p align="center"><a href="https://github.com/Vinay-711"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-711&amp;bg_color=151515&amp;color=E8E8E8&amp;line=FF9900&amp;point=FFD38A&amp;hide_border=true" alt="Vinay’s recent GitHub contribution graph" width="850" /></a></p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center"><a href="https://vinay-711.github.io/AASHA/"><b>Try AASHA</b></a> &nbsp;·&nbsp; <a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><b>Explore MPLADS Sentinel</b></a> &nbsp;·&nbsp; <a href="https://github.com/Vinay-711/AgentPay"><b>Inspect AgentPay</b></a></p>
 
 <h2 align="center">📫 Connect with Me</h2>
 
