@@ -8,46 +8,37 @@
   <a href="https://github.com/Vinay-711?tab=repositories">All repositories</a>
 </p>
 
-## Hi, I'm Vinay
+# L Vinay · AI/ML Engineer
 
-I'm a **third-year Computer Science & Engineering student at REVA University**, based in **Bengaluru, India**. I build AI, automation and full-stack projects, with a particular interest in healthcare workflows, public-interest data systems, and tools that turn an idea into a working demonstration.
+I build AI applications in Bengaluru. Two questions show up across my work at REVA University: how can someone inspect a model’s output, and what should software check before it acts on that output?
 
-Hackathons are where I explore new ideas. Testing, documentation and iteration are how I make those ideas easier to run, understand and improve.
+## Start with these three projects
 
-- **Building:** database-backed web applications, AI-assisted prototypes, and developer workflows.
-- **Exploring:** generative AI, AWS, agent systems, and mobile experiences.
-- **Practising:** data structures, algorithms, and explaining solutions clearly.
-- **Open to:** student collaborations, hackathons, and practical open-source contributions.
+### MPLADS Sentinel · Explainable risk indicators
 
-## Selected projects
+A public works project can report spending and physical progress at different rates. Sentinel calculates that gap alongside delays and cost indicators so a reviewer can decide which records deserve a closer look. The feature tests run on a laptop without a database and include demonstration data.
 
-| Project | What I'm building | Technology & scope |
-| --- | --- | --- |
-| **[MPLADS Sentinel](https://github.com/Vinay-711/mplads-sentinel-sih-2026)** | Public-project data pipelines and explainable governance risk indicators. | Python · FastAPI · PostgreSQL. Research prototype that includes demonstration data. |
-| **[AASHA](https://github.com/Vinay-711/AASHA)** | Medication-reminder, pharmacy-availability, and family/guardian workflow experiments. | Flutter · FastAPI · SQLAlchemy. Healthcare and safety research prototype. [Browser demo ↗](https://vinay-711.github.io/AASHA/) |
-| **[AgentPay](https://github.com/Vinay-711/AgentPay)** | Agent-to-agent services and payments with programmable wallet limits and policy checks. | Solidity · React · FastAPI · Supabase. Monad testnet prototype. |
-| **[SocietyBuy](https://github.com/Vinay-711/societybuy)** *(private repository)* | Society grocery ordering, supply-chain operations, and transactional order workflows. | Next.js · TypeScript · PostgreSQL. Local demonstration with sandbox integrations and automated checks. |
+[Explore Sentinel](https://github.com/Vinay-711/mplads-sentinel-sih-2026) · [Reproduce the feature checks](https://github.com/Vinay-711/mplads-sentinel-sih-2026#reproduce-the-feature-checks)
 
-These projects are at different stages of development. Healthcare capabilities remain unvalidated, payment experiments use test environments, and repository READMEs document the current limitations.
+### AASHA · A health and safety prototype
 
-## Explore the engineering
+AASHA explores how people could track medication reminders and share pharmacy availability with a family member. Try the browser walkthrough for the interaction design, then open the pharmacy tests to see what the database-backed service actually verifies. The demo uses sample records.
 
-- **[AgentPay policy safety tests](https://github.com/Vinay-711/AgentPay/blob/main/backend/tests/test_policy_safety.py):** isolated checks for payment limits, recipient trust and invalid policy data, using a mock chain client.
-- **[Codeforces regression checks](https://github.com/Vinay-711/codeforces-daily#continuous-regression-checks):** a single command runs the local solution test harnesses; GitHub Actions repeats these checks on pushes and pull requests.
-- **[Coding practice records](#coding-practice):** explanations and verification status distinguish accepted submissions from prepared solutions.
+[Try the browser demo](https://vinay-711.github.io/AASHA/) · [Explore the Flutter and FastAPI source](https://github.com/Vinay-711/AASHA) · [Run the pharmacy tests](https://github.com/Vinay-711/AASHA#run-the-pharmacy-regression-suite)
 
-## Tools I work with
+### AgentPay · Spending limits for AI agents
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python, Java, TypeScript, JavaScript, SQL; Solidity for testnet experiments |
-| **Web & APIs** | React, Next.js, FastAPI, REST APIs |
-| **Data & backend** | PostgreSQL, SQLAlchemy, Supabase |
-| **Mobile & AI exploration** | Flutter, computer vision, generative AI, agent workflows |
-| **Engineering workflow** | Git, GitHub Actions, pytest, Vitest, Playwright |
-| **Currently exploring** | AWS and practical AI automation |
+What happens when an agent asks to pay an unfamiliar recipient? In this Monad testnet prototype, a policy engine checks the recipient and spending limits before a payment can reach the wallet. The tests exercise those decisions with a mock chain client.
 
-## Coding practice
+[Explore AgentPay](https://github.com/Vinay-711/AgentPay) · [Read the payment policy tests](https://github.com/Vinay-711/AgentPay/blob/main/backend/tests/test_policy_safety.py)
+
+## Hackathon highlights
+
+- **2nd place** at REVA University’s HACC-IT internal hackathon, November 2024.
+- **Rank 123 of 3,062** at HackerRank Orchestrate, September 2026.
+
+<details>
+<summary>Competitive programming profiles and practice repositories</summary>
 
 I keep solution code, original explanations, edge-case tests, and submission results in a separate repository for each platform.
 
@@ -59,31 +50,6 @@ I keep solution code, original explanations, edge-case tests, and submission res
 | **HackerRank** | [lokeshvinay1973](https://www.hackerrank.com/profile/lokeshvinay1973) | [hackerrank-daily](https://github.com/Vinay-711/hackerrank-daily) |
 | **HackerEarth** | [lokeshvinay1973](https://www.hackerearth.com/@lokeshvinay1973) | [hackerearth-daily](https://github.com/Vinay-711/hackerearth-daily) |
 
-Practice repositories include AI-assisted work. Judge verdicts are recorded separately from locally tested or unsubmitted solutions; practice activity is distinct from rated contest participation.
+Practice repositories include AI-assisted work. Judge verdicts are recorded separately from locally tested or unsubmitted solutions. Practice activity is distinct from rated contest participation.
 
-## Hackathons & achievements
-
-Results below reflect my certificates. Participation and appreciation certificates are listed as such, rather than as podium finishes.
-
-| Event | Result | Date / edition |
-| --- | --- | --- |
-| **HACC-IT Internal Hackathon**, REVA University — *AI for Good and Sustainable Development* | **2nd Place** | 7–8 November 2024 |
-| **HackerRank Orchestrate** | **Final rank 123 of 3,062** | September 2026 |
-| **Code Crusade 2025 Hackathon**, REVA University | Participation | 21–22 November 2025 |
-| **OpenSwarm Hackathon**, Polaris School of Technology | Participation · Team Asgard | 18 July 2026 |
-| **PBCTF 5.0 — Capture The Flag**, Point Blank | Participation | 26 July 2026 |
-| **Bharatiya Antariksh Hackathon**, ISRO / Hack2skill | Participation & successful idea submission | 2026 |
-| **Build for Bengaluru**, GDG Bengaluru | Participation | 25–26 April; year not printed on certificate |
-| **HACK $DAY Edition 1 — Pondy** | Certificate of Appreciation | Edition 1 |
-
-## Education
-
-**REVA University · Bengaluru**
-
-Computer Science & Engineering · Third year
-
-## Let's connect
-
-Interested in building something useful together? Reach me on **[LinkedIn](https://www.linkedin.com/in/l-vinay-55631136b/)** or at **[lokeshvinay1973@gmail.com](mailto:lokeshvinay1973@gmail.com)**.
-
-<p align="center"><sub>Ideas are the starting point. Working software, clear evidence and steady improvement are the goal.</sub></p>
+</details>
