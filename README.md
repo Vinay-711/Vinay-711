@@ -1,38 +1,46 @@
-![L Vinay · AI/ML Engineer in Bengaluru](./assets/header.svg)
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=29&amp;pause=1300&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I%27m+Vinay!;AI%2FML+Engineer+from+Bengaluru" alt="Hi, I’m Vinay! AI/ML Engineer from Bengaluru" /></p>
 
-I build AI applications at REVA University in Bengaluru. I’m interested in the moment a model’s output becomes someone’s decision. My projects explore what a reviewer can check, what a user can try, and what an agent is allowed to do.
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;style=flat-square&amp;color=1685ac" alt="Profile views" /></p>
 
-[LinkedIn](https://www.linkedin.com/in/l-vinay-55631136b/) · [Email](mailto:lokeshvinay1973@gmail.com) · [All repositories](https://github.com/Vinay-711?tab=repositories)
+<h2 align="center">👨‍💻 About Me</h2>
 
-## Try AASHA
+<p align="center">I build AI applications at REVA University in Bengaluru. My favorite part is figuring out what happens after a model makes a prediction. Who can check it? What should the software do next?</p>
 
-How would you help a family member keep track of medication reminders and find a pharmacy? AASHA is a Flutter and FastAPI prototype exploring that workflow. The browser demo uses sample pharmacy reports. The backend has a separate regression suite for the database-backed service.
+<h2 align="center">🌱 Interests</h2>
 
-**[Open the browser demo →](https://vinay-711.github.io/AASHA/)** · [Read the source](https://github.com/Vinay-711/AASHA) · [Run the pharmacy tests](https://github.com/Vinay-711/AASHA#run-the-pharmacy-regression-suite)
+<p align="center"><b>Computer Vision</b> &nbsp;•&nbsp; <b>Generative AI</b> &nbsp;•&nbsp; <b>Agent Systems</b> &nbsp;•&nbsp; <b>Full-Stack Development</b></p>
 
-## Inside two engineering decisions
+<h2 align="center">🛠️ Skills &amp; Technologies</h2>
 
-| Project | Design decision | Explore it |
-| --- | --- | --- |
-| **MPLADS Sentinel** · Python, PostgreSQL | Spending and reported progress can move at different rates. Sentinel calculates the gap so a reviewer can decide which public works records deserve a closer look. | [Reproduce the calculations on sample data](https://github.com/Vinay-711/mplads-sentinel-sih-2026#reproduce-the-feature-checks) |
-| **AgentPay** · Solidity, FastAPI | An agent can request a payment on Monad testnet. A separate policy engine checks the recipient and spending limit before that request reaches the wallet. | [Inspect the policy tests](https://github.com/Vinay-711/AgentPay/blob/main/backend/tests/test_policy_safety.py) |
+<table align="center"><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" /><br/><sub><b>Python</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" /><br/><sub><b>Java</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" /><br/><sub><b>TypeScript</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" /><br/><sub><b>React</b></sub></td></tr><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" /><br/><sub><b>FastAPI</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" /><br/><sub><b>PostgreSQL</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" /><br/><sub><b>Flutter</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" /><br/><sub><b>Git</b></sub></td></tr></table>
 
-## Development stack
+<h2 align="center">🚀 Featured Projects</h2>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="python" title="python" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="fastapi" title="fastapi" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" title="postgresql" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="react" title="react" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36" height="36" alt="flutter" title="flutter" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="git" title="git" />
+<p align="center"><a href="https://vinay-711.github.io/AASHA/"><b>Try AASHA</b></a> · Explore a medication reminder and pharmacy demo.<br/><a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><b>MPLADS Sentinel</b></a> · Inspect gaps between spending and reported progress.<br/><a href="https://github.com/Vinay-711/AgentPay"><b>AgentPay</b></a> · See how a testnet wallet checks an AI agent’s payment requests.</p>
 
-Python · FastAPI · PostgreSQL · React · Flutter · Git
+<h2 align="center">📈 Repository Languages</h2>
 
-## Repository activity
+<p align="center"><img src="./assets/languages.svg" alt="Python 7, HTML 5, Java 3, JavaScript 2, TypeScript 1. Public non-fork repository snapshot, 7 November 2026." width="650" /></p>
 
-![Public non-fork repositories by selected primary language on 7 November 2026: Python 7, HTML 5, Java 3, JavaScript 2, TypeScript 1.](./assets/languages.svg)
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
 
-[Explore the public repositories](https://github.com/Vinay-711?tab=repositories)
+<p align="center"><a href="https://github.com/Vinay-711"><img src="https://streak-stats.demolab.com/?user=Vinay-711&amp;theme=tokyonight&amp;hide_border=true" alt="Vinay’s GitHub contribution streak" width="550" /></a></p>
 
-## Hackathon highlights
+<h2 align="center">📊 GitHub Contribution Graph</h2>
+
+<p align="center"><a href="https://github.com/Vinay-711"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-711&amp;theme=tokyo-night&amp;hide_border=true" alt="Vinay’s recent GitHub contribution graph" width="850" /></a></p>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<table align="center"><tr><td align="center"><a href="https://www.linkedin.com/in/l-vinay-55631136b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" /><br/><sub><b>LinkedIn</b></sub></a></td><td align="center"><a href="https://github.com/Vinay-711"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" /><br/><sub><b>GitHub</b></sub></a></td><td align="center"><a href="mailto:lokeshvinay1973@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="42" /><br/><sub><b>Email</b></sub></a></td></tr></table>
+
+<details>
+<summary>Hackathon highlights</summary>
 
 - **2nd place** at REVA University’s HACC-IT internal hackathon, November 2024.
 - **Rank 123 of 3,062** at HackerRank Orchestrate, September 2026.
+
+</details>
 
 <details>
 <summary>Competitive programming profiles and practice repositories</summary>
