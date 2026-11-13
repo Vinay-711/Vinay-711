@@ -1,11 +1,7 @@
-<div align="center">
-<img src="./assets/hero.svg" width="100%" alt="L Vinay — AI/ML Engineer · Full-Stack Developer" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=50&amp;lines=Hi+there%2C+I%27m+Vinay+%F0%9F%91%8B;AI%2FML+%7C+Full-Stack+Development;Exploring+computer+vision+%26+agent+systems;CS+Student+%40+REVA+University" alt="Hi there, I’m Vinay — exploring AI and full-stack development" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/Vinay-711?tab=followers"><img src="https://img.shields.io/github/followers/Vinay-711?label=Followers&amp;style=for-the-badge&amp;color=203a43&amp;logo=github" alt="Followers" /></a>
-<a href="mailto:lokeshvinay1973@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
-</div>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=29&amp;pause=1300&amp;color=FFA31A&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I%27m+Vinay!;AI%2FML+Engineer+from+Bengaluru" alt="Hi, I’m Vinay! AI/ML Engineer from Bengaluru" /></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;style=flat-square&amp;color=B85F00" alt="Profile views" /></p>
+
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
