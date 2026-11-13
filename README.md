@@ -1,46 +1,113 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="L Vinay — Ideas into code. Code into possibility. AI/ML, computer vision and full-stack development. REVA University, Bengaluru." />
-</p>
+<div align="center">
+<img src="./assets/hero.svg" width="100%" alt="L Vinay — AI/ML Engineer · Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=50&amp;lines=Hi+there%2C+I%27m+Vinay+%F0%9F%91%8B;AI%2FML+%7C+Full-Stack+Development;Exploring+computer+vision+%26+agent+systems;CS+Student+%40+REVA+University" alt="Hi there, I’m Vinay — exploring AI and full-stack development" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/Vinay-711?tab=followers"><img src="https://img.shields.io/github/followers/Vinay-711?label=Followers&amp;style=for-the-badge&amp;color=203a43&amp;logo=github" alt="Followers" /></a>
+<a href="mailto:lokeshvinay1973@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/l-vinay-55631136b/">LinkedIn ↗</a> &nbsp; / &nbsp;
-  <a href="mailto:lokeshvinay1973@gmail.com">Say hello ↗</a> &nbsp; / &nbsp;
-  <a href="https://vinay-711.github.io/AASHA/">Try AASHA ↗</a>
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/section-about.svg" width="100%" alt="01 — Behind the code" />
+<img src="./assets/header-about.svg" width="100%" alt="About" />
 
-I’m **Vinay**, building AI applications at **REVA University, Bengaluru**.
+<table><tr><td width="60%" valign="top">
 
-My favorite question comes *after* the prediction: **who can check it, and what should the software do next?** I explore that through computer vision, generative AI, agent systems, and full-stack applications.
+I’m **Vinay**, a Computer Science student at **REVA University, Bengaluru**. I build AI applications and explore what happens after a model makes a prediction: who can check it, and what should the software do next?
 
-- **Building around:** health and safety, public data, and agent workflows.
-- **Learning through:** prototypes, hackathons, and competitive programming.
-- **Interested in:** useful AI, clear interfaces, and systems people can understand.
+- 🔭 Exploring **computer vision, generative AI & agent systems**
+- 🛠️ Building **AASHA, MPLADS Sentinel & AgentPay** prototypes
+- 🏆 **2nd place** — REVA HACC-IT internal hackathon
+- 💻 Practicing **data structures & algorithms** across coding platforms
+- 🌱 Learning through **hackathons, experiments & full-stack projects**
+- 📫 **lokeshvinay1973@gmail.com**
 
-<img src="./assets/section-projects.svg" width="100%" alt="02 — Selected projects" />
+</td><td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding animation" />
+</td></tr></table>
 
-<a href="https://github.com/Vinay-711/AASHA"><img src="./assets/project-aasha.svg" width="100%" alt="AASHA — health and safety research prototype exploring medication reminders, pharmacy reports and family workflows. Flutter, Python, FastAPI. Explore source." /></a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><img src="./assets/project-sentinel.svg" width="100%" alt="MPLADS Sentinel — research and hackathon prototype for public-works data and project monitoring. Python, PostgreSQL, FastAPI. Explore source." /></a>
+<img src="./assets/header-stack.svg" width="100%" alt="Stack" />
 
-<a href="https://github.com/Vinay-711/AgentPay"><img src="./assets/project-agentpay.svg" width="100%" alt="AgentPay — hackathon prototype for agent-to-agent payments with policy-constrained wallets on Monad testnet. Explore source." /></a>
+<div align="center">
 
-<p align="right"><a href="https://github.com/Vinay-711?tab=repositories">Explore all repositories →</a></p>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,ts,html,css&amp;theme=dark&amp;perline=8" alt="Python, Java, TypeScript, HTML and CSS" />
 
-<img src="./assets/section-stack.svg" width="100%" alt="03 — My toolkit" />
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,fastapi,flutter&amp;theme=dark&amp;perline=8" alt="React, FastAPI and Flutter" />
 
-<img src="./assets/toolkit.svg" width="100%" alt="Languages: Python, Java, TypeScript. Applications: React, FastAPI, Flutter. Data and workflow: PostgreSQL, Git, GitHub." />
+### Data, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,githubactions&amp;theme=dark&amp;perline=8" alt="PostgreSQL, Supabase, Git, GitHub and GitHub Actions" />
 
-<img src="./assets/section-activity.svg" width="100%" alt="04 — The commit trail" />
+</div>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/header-projects.svg" width="100%" alt="Projects" />
+
+<div align="center">
+<img src="./assets/highlight-hacc.svg" width="49%" alt="2nd place — REVA HACC-IT internal hackathon, November 2024" />
+<img src="./assets/highlight-rank.svg" width="49%" alt="Rank 123 of 3,062 — HackerRank Orchestrate, September 2026" />
+<br/>
+<a href="https://vinay-711.github.io/AASHA/"><img src="https://img.shields.io/badge/AASHA-Try%20Demo-22C55E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Try AASHA demo" /></a>
+<a href="https://github.com/Vinay-711?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Source-38BDF8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore project source" /></a>
+</div>
+<br/>
+<table><tr><td width="50%" valign="top">
+
+### 💙 [AASHA](https://github.com/Vinay-711/AASHA)
+A health and personal-safety research prototype exploring **medication reminders, pharmacy reports & family workflows**.
+
+`Flutter` `Python` `FastAPI` · [**Browser demo ↗**](https://vinay-711.github.io/AASHA/)
+
+</td><td width="50%" valign="top">
+
+### 🛰️ [MPLADS Sentinel](https://github.com/Vinay-711/mplads-sentinel-sih-2026)
+A research and hackathon prototype for **public-works data, project monitoring & risk indicators** that support human review.
+
+`Python` `PostgreSQL` `FastAPI`
+
+</td></tr><tr><td width="50%" valign="top">
+
+### 🤖 [AgentPay](https://github.com/Vinay-711/AgentPay)
+A hackathon prototype exploring **agent-to-agent payments**, with policy-constrained wallets and AgentGuard checks on Monad testnet.
+
+`React` `Solidity` `AI Agents`
+
+</td><td width="50%" valign="top">
+
+### 🧩 [DSA Practice](https://github.com/Vinay-711/Leetcode)
+My coding practice: **Java solutions, algorithm explanations & edge cases**, with separate repositories for each platform.
+
+`Java` `Algorithms` `Problem Solving`
+
+</td></tr></table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/header-analytics.svg" width="100%" alt="Analytics" />
+
+<div align="center">
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="GitHub profile details and contribution history" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories by language" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Commits by language" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Commit times in India Standard Time" />
+<img src="https://streak-stats.demolab.com?user=Vinay-711&amp;theme=github-dark-blue&amp;hide_border=true" width="98%" alt="GitHub contribution streak" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/header-snake.svg" width="100%" alt="Snake" />
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <img src="./assets/github-snake.svg" width="100%" alt="Animated snake tracing Vinay’s GitHub contribution calendar" />
+<source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+<img src="./assets/github-snake.svg" width="100%" alt="Animated contribution snake, refreshed daily" />
 </picture>
-
-<p align="center"><sub>Built from my GitHub contribution calendar · refreshed daily</sub></p>
-
+</div>
 <details>
 <summary>Hackathon highlights</summary>
 
@@ -67,9 +134,17 @@ Practice repositories include AI-assisted work. Judge verdicts are recorded sepa
 </details>
 
 
-<img src="./assets/section-connect.svg" width="100%" alt="05 — Let’s build something" />
 
-<p align="center">Have an interesting problem, a hackathon idea, or a project to collaborate on?</p>
-<p align="center"><a href="mailto:lokeshvinay1973@gmail.com"><b>Let’s talk →</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/l-vinay-55631136b/">Find me on LinkedIn</a></p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><sub>Always curious. Always building.</sub></p>
+<img src="./assets/header-connect.svg" width="100%" alt="Connect" />
+
+<div align="center">
+<a href="https://github.com/Vinay-711"><img src="https://img.shields.io/badge/GitHub-Vinay--711-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="mailto:lokeshvinay1973@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/l-vinay-55631136b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=4000&amp;pause=1000&amp;color=94A3B8&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Thanks+for+visiting!;Always+learning%2C+always+building." alt="Thanks for visiting! Always learning, always building." />
+<br/><sub>Layout inspired by <a href="https://github.com/zynssam/zynssam">zynssam</a> · Artwork personalized for Vinay</sub>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=120&amp;section=footer" width="100%" alt="Decorative wave footer" />
