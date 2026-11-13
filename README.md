@@ -1,34 +1,45 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=29&amp;pause=1300&amp;color=FFA31A&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I%27m+Vinay!;AI%2FML+Engineer+from+Bengaluru" alt="Hi, I’m Vinay! AI/ML Engineer from Bengaluru" /></p>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="L Vinay — Ideas into code. Code into possibility. AI/ML, computer vision and full-stack development. REVA University, Bengaluru." />
+</p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;style=flat-square&amp;color=B85F00" alt="Profile views" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/l-vinay-55631136b/">LinkedIn ↗</a> &nbsp; / &nbsp;
+  <a href="mailto:lokeshvinay1973@gmail.com">Say hello ↗</a> &nbsp; / &nbsp;
+  <a href="https://vinay-711.github.io/AASHA/">Try AASHA ↗</a>
+</p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<img src="./assets/section-about.svg" width="100%" alt="01 — Behind the code" />
 
-<p align="center">I build AI applications at REVA University in Bengaluru. My favorite part is figuring out what happens after a model makes a prediction. Who can check it? What should the software do next?</p>
+I’m **Vinay**, building AI applications at **REVA University, Bengaluru**.
 
-<h2 align="center">🌱 Interests</h2>
+My favorite question comes *after* the prediction: **who can check it, and what should the software do next?** I explore that through computer vision, generative AI, agent systems, and full-stack applications.
 
-<p align="center"><b>Computer Vision</b> &nbsp;•&nbsp; <b>Generative AI</b> &nbsp;•&nbsp; <b>Agent Systems</b> &nbsp;•&nbsp; <b>Full-Stack Development</b></p>
+- **Building around:** health and safety, public data, and agent workflows.
+- **Learning through:** prototypes, hackathons, and competitive programming.
+- **Interested in:** useful AI, clear interfaces, and systems people can understand.
 
-<h2 align="center">🛠️ Skills &amp; Technologies</h2>
+<img src="./assets/section-projects.svg" width="100%" alt="02 — Selected projects" />
 
-<table align="center"><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" /><br/><sub><b>Python</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" /><br/><sub><b>Java</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" /><br/><sub><b>TypeScript</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" /><br/><sub><b>React</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" /><br/><sub><b>FastAPI</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" /><br/><sub><b>PostgreSQL</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" /><br/><sub><b>Flutter</b></sub></td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" /><br/><sub><b>Git</b></sub></td></tr></table>
+<a href="https://github.com/Vinay-711/AASHA"><img src="./assets/project-aasha.svg" width="100%" alt="AASHA — health and safety research prototype exploring medication reminders, pharmacy reports and family workflows. Flutter, Python, FastAPI. Explore source." /></a>
 
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
+<a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><img src="./assets/project-sentinel.svg" width="100%" alt="MPLADS Sentinel — research and hackathon prototype for public-works data and project monitoring. Python, PostgreSQL, FastAPI. Explore source." /></a>
 
-<p align="center"><a href="https://github.com/Vinay-711"><img src="https://streak-stats.demolab.com/?user=Vinay-711&amp;theme=dark&amp;background=151515&amp;ring=FF9900&amp;fire=FF9900&amp;currStreakLabel=FF9900&amp;hide_border=true" alt="Vinay’s GitHub contribution streak" width="620" /></a></p>
+<a href="https://github.com/Vinay-711/AgentPay"><img src="./assets/project-agentpay.svg" width="100%" alt="AgentPay — hackathon prototype for agent-to-agent payments with policy-constrained wallets on Monad testnet. Explore source." /></a>
 
-<h2 align="center">📊 GitHub Contribution Graph</h2>
+<p align="right"><a href="https://github.com/Vinay-711?tab=repositories">Explore all repositories →</a></p>
 
-<p align="center"><a href="https://github.com/Vinay-711"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-711&amp;bg_color=151515&amp;color=E8E8E8&amp;line=FF9900&amp;point=FFD38A&amp;hide_border=true" alt="Vinay’s recent GitHub contribution graph" width="850" /></a></p>
+<img src="./assets/section-stack.svg" width="100%" alt="03 — My toolkit" />
 
-<h2 align="center">🚀 Featured Projects</h2>
+<img src="./assets/toolkit.svg" width="100%" alt="Languages: Python, Java, TypeScript. Applications: React, FastAPI, Flutter. Data and workflow: PostgreSQL, Git, GitHub." />
 
-<p align="center"><a href="https://vinay-711.github.io/AASHA/"><b>Try AASHA</b></a> &nbsp;·&nbsp; <a href="https://github.com/Vinay-711/mplads-sentinel-sih-2026"><b>Explore MPLADS Sentinel</b></a> &nbsp;·&nbsp; <a href="https://github.com/Vinay-711/AgentPay"><b>Inspect AgentPay</b></a></p>
+<img src="./assets/section-activity.svg" width="100%" alt="04 — The commit trail" />
 
-<h2 align="center">📫 Connect with Me</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <img src="./assets/github-snake.svg" width="100%" alt="Animated snake tracing Vinay’s GitHub contribution calendar" />
+</picture>
 
-<table align="center"><tr><td align="center"><a href="https://www.linkedin.com/in/l-vinay-55631136b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" /><br/><sub><b>LinkedIn</b></sub></a></td><td align="center"><a href="https://github.com/Vinay-711"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" /><br/><sub><b>GitHub</b></sub></a></td><td align="center"><a href="mailto:lokeshvinay1973@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="42" /><br/><sub><b>Email</b></sub></a></td></tr></table>
+<p align="center"><sub>Built from my GitHub contribution calendar · refreshed daily</sub></p>
 
 <details>
 <summary>Hackathon highlights</summary>
@@ -54,3 +65,11 @@ I keep solution code, original explanations, edge-case tests, and submission res
 Practice repositories include AI-assisted work. Judge verdicts are recorded separately from locally tested or unsubmitted solutions. Practice activity is distinct from rated contest participation.
 
 </details>
+
+
+<img src="./assets/section-connect.svg" width="100%" alt="05 — Let’s build something" />
+
+<p align="center">Have an interesting problem, a hackathon idea, or a project to collaborate on?</p>
+<p align="center"><a href="mailto:lokeshvinay1973@gmail.com"><b>Let’s talk →</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/l-vinay-55631136b/">Find me on LinkedIn</a></p>
+
+<p align="center"><sub>Always curious. Always building.</sub></p>
