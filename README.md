@@ -1,6 +1,10 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=29&amp;pause=1300&amp;color=FFA31A&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I%27m+Vinay!;AI%2FML+Engineer+from+Bengaluru" alt="Hi, I’m Vinay! AI/ML Engineer from Bengaluru" /></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;style=flat-square&amp;color=B85F00" alt="Profile views" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vinay-711&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/Vinay-711?tab=followers"><img src="https://img.shields.io/github/followers/Vinay-711?label=Followers&amp;style=for-the-badge&amp;color=203a43&amp;logo=github" alt="Followers" /></a>
+<a href="mailto:lokeshvinay1973@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
+</p>
 
 
 <img src="./assets/divider.svg" width="100%" alt="" />
