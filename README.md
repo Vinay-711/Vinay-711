@@ -145,6 +145,5 @@ Practice repositories include AI-assisted work. Judge verdicts are recorded sepa
 <a href="https://www.linkedin.com/in/l-vinay-55631136b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=4000&amp;pause=1000&amp;color=94A3B8&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Thanks+for+visiting!;Always+learning%2C+always+building." alt="Thanks for visiting! Always learning, always building." />
-<br/><sub>Layout inspired by <a href="https://github.com/zynssam/zynssam">zynssam</a> · Artwork personalized for Vinay</sub>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=120&amp;section=footer" width="100%" alt="Decorative wave footer" />
