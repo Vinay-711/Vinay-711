@@ -16,7 +16,7 @@
 I’m **Vinay**, a Computer Science student at **REVA University, Bengaluru**. I build AI applications and explore what happens after a model makes a prediction: who can check it, and what should the software do next?
 
 - 🔭 Exploring **computer vision, generative AI & agent systems**
-- 🛠️ Building **AASHA, MPLADS Sentinel & AgentPay** prototypes
+- 🛠️ Building **Vinay's Coding Bot, AASHA, MPLADS Sentinel & AgentPay**
 - 🏆 **2nd place** — REVA HACC-IT internal hackathon
 - 💻 Practicing **data structures & algorithms** across coding platforms
 - 🌱 Learning through **hackathons, experiments & full-stack projects**
@@ -51,10 +51,46 @@ I’m **Vinay**, a Computer Science student at **REVA University, Bengaluru**. I
 <img src="./assets/highlight-hacc.svg" width="49%" alt="2nd place — REVA HACC-IT internal hackathon, November 2024" />
 <img src="./assets/highlight-rank.svg" width="49%" alt="Rank 123 of 3,062 — HackerRank Orchestrate, September 2026" />
 <br/>
+<a href="https://github.com/Vinay-711/autonomous-coding-bot"><img src="https://img.shields.io/badge/⚡%20Coding%20Bot-Try%20with%20npx-FFA31A?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Try Vinay's Coding Bot with npx" /></a>
 <a href="https://vinay-711.github.io/AASHA/"><img src="https://img.shields.io/badge/AASHA-Try%20Demo-22C55E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Try AASHA demo" /></a>
 <a href="https://github.com/Vinay-711?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Source-38BDF8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore project source" /></a>
 </div>
 <br/>
+
+<div align="center">
+<a href="https://github.com/Vinay-711/autonomous-coding-bot">
+  <img src="./assets/showcase-coding-bot.svg" width="100%" alt="Vinay's Coding Bot — Autonomous AI Competitive Programming Solver" />
+</a>
+</div>
+
+### ⚡ Spotlight: [Vinay's Coding Bot (`vinays-coding-bot`)](https://github.com/Vinay-711/autonomous-coding-bot)
+> **Autonomous Multi-Platform Competitive Programming Agent** powered by Gemini AI, Playwright, and local compiler sandboxes. It extracts challenges, synthesizes high-accuracy Java solutions, verifies them locally with `javac`, submits to live judges, and pushes accepted solutions to GitHub across **LeetCode**, **Codeforces**, **HackerRank**, **CodeChef**, and **HackerEarth**.
+
+#### 🚀 Try It Instantly with NPX (Zero Setup Required)
+Anyone can try and run the bot directly from their terminal using `npx`:
+
+```bash
+# Launch interactive configuration & setup wizard
+npx vinays-coding-bot --setup
+
+# Or run directly from GitHub repository
+npx github:Vinay-711/autonomous-coding-bot --setup
+```
+
+**Common commands:**
+```bash
+# Check platform credentials & Chrome connection status
+npx vinays-coding-bot --status
+
+# Solve 5 Medium/Easy problems across all 5 platforms
+npx vinays-coding-bot --platform all --count 5 --mode both
+
+# Target a specific platform (e.g. LeetCode Medium)
+npx vinays-coding-bot --platform leetcode --count 5 --difficulty medium
+```
+
+`Python` `Gemini 2.5 Flash` `Playwright` `Node.js CLI` `Java` `GitHub Actions`
+<br/><br/>
 <table><tr><td width="50%" valign="top">
 
 ### 💙 [AASHA](https://github.com/Vinay-711/AASHA)
@@ -129,7 +165,7 @@ I keep solution code, original explanations, edge-case tests, and submission res
 | **HackerRank** | [lokeshvinay1973](https://www.hackerrank.com/profile/lokeshvinay1973) | [hackerrank-daily](https://github.com/Vinay-711/hackerrank-daily) |
 | **HackerEarth** | [lokeshvinay1973](https://www.hackerearth.com/@lokeshvinay1973) | [hackerearth-daily](https://github.com/Vinay-711/hackerearth-daily) |
 
-Practice repositories include AI-assisted work. Judge verdicts are recorded separately from locally tested or unsubmitted solutions. Practice activity is distinct from rated contest participation.
+Practice repositories include AI-assisted work, autonomously solved, verified, and committed daily by [Vinay's Coding Bot](https://github.com/Vinay-711/autonomous-coding-bot) (`vinays-coding-bot`). Judge verdicts are recorded separately from locally tested or unsubmitted solutions. Practice activity is distinct from rated contest participation.
 
 </details>
 
